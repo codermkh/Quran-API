@@ -176,7 +176,7 @@ There are no rate limits currently enforced on this API.
 - 404 Not Found: If the requested recitation or chapter does not exist.
 
 #### Support
-For any inquiries or support, please contact support@hideme.eu.org.
+For any inquiries or support, please contact mkhossain@duck.com.
 
 #### Terms of Use
 Usage of this API is subject to the terms and conditions outlined by the API provider.
