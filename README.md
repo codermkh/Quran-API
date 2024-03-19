@@ -5,7 +5,7 @@
 The Quran API allows developers to access recitations of the Quran by reciter and specific chapters.
 
 #### Base URL
-https://hideme.eu.org/developer/quranrecit.php
+https://api.hideme.eu.org/quranrecit.php
 #### Authentication
 No authentication is required to access the API.
 
@@ -21,7 +21,7 @@ GET /quranrecit.php?id={reciter_id}&chapter_number={chapter_number}
 The API returns an audio file of the recitation for the specified chapter by the chosen reciter.
 
 ###### Example
-GET https://hideme.eu.org/developer/quranrecit.php?id=3&chapter_number=36
+GET https://api.hideme.eu.org/quranrecit.php?id=3&chapter_number=36
 #### Reciter IDs
 1. Abdullah Awad al-Juhani
 2. Abdullah Basfar
